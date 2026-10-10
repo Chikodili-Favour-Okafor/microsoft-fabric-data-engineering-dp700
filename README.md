@@ -8,7 +8,7 @@ The goal of this repo is to demonstrate practical implementation of **enterprise
 ---
 
 ## Learning Path
-- Microsoft Certified: Azure Data Fundamentals (DP-900) ✅ Completed https://github.com/Fabulousfayvour/azure-data-fundamentals-dp900
+- Microsoft Certified: Azure Data Fundamentals (DP-900) ✅ Completed https://github.com/Chikodili-Favour-Okafor/azure-data-fundamentals-dp900
 - Microsoft Certified: Fabric Data Engineer Associate (DP-700)  ✅ Completed
 
 ---
@@ -377,7 +377,7 @@ Microsoft Fabric is a SaaS solution for end-to-end data analytics. As an adminis
 This repo also documents real-world issues encountered during learning, including:
 - Spark notebook configuration issues
 
-The **Errors** folder demonstrates **problem-solving and troubleshooting skills**, which are critical for data engineering role. https://github.com/Fabulousfayvour/microsoft-fabric-data-engineering-dp700/tree/main/errors
+The **Errors** folder demonstrates **problem-solving and troubleshooting skills**, which are critical for data engineering role. https://github.com/Chikodili-Favour-Okafor/microsoft-fabric-data-engineering-dp700/tree/main/errors
 
 ---
 
